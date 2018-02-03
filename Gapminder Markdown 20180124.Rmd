@@ -152,11 +152,10 @@ plot(lifeExp ~ gdpPercap, gap_with_colors,
 
 ### **Homework 01 Exercise - Task 5**
 
-* For your report, modify the YAML to put a good TITLE for your report and put in YOUR NAME and change the DATE.
-* If you have MiKTeX or MacTex installed and running on your computer, you can compile the report directly to PDF ("Knit to PDF"). However, if you didn't install these, you should still be able to "Knit to HTML" or "Knit to Word". Once you've got the HTML or Microsoft Word DOCX file created, you can print these to PDF.
-* Make sure your report completes the 4 tasks above with your associated R chunks along with a description or commentary on what you did and the result.
-* Submit the PDF homework using Canvas for N741.
-* Include in your report a link to your Github repository with your RMD file and any other associated output you created. In the body of your Rmarkdown (RMD) report use the `[]()` syntax to embed the URL "web link". For example, the link for this exercise is located at [https://github.com/melindahiggins2000/N741gapminder1](https://github.com/melindahiggins2000/N741gapminder1) which was typed in to the Rmarkdown file as `[https://github.com/melindahiggins2000/N741gapminder1](https://github.com/melindahiggins2000/N741gapminder1)`.
+
+See above the 4 requested changes made to the Rmd file.  
+To view the Github repository for this HW 1, go to this link: [https://github.com/nicolecarlson/N741Homework1-1]
+
 
 
 
